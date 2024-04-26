@@ -1,6 +1,9 @@
 *{
     box-sizing: border-box;
 }
+body{
+    background-color: #e526bf;
+}
 :root{
     --border-radius:5px;
     --border-width:1px;
